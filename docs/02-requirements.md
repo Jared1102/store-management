@@ -22,7 +22,7 @@ FR-09: The system must generate alerts when a product’s stock is equal to or b
 
 FR-10: The system must allow registering a sale.
 
-FR-11: The system must allow adding one or more products to a sale, specifying the quantity for each product).
+FR-11: The system must allow adding one or more products to a sale, specifying the quantity for each product.
 
 FR-12: The system must validate product stock availability before confirming a sale.
 
